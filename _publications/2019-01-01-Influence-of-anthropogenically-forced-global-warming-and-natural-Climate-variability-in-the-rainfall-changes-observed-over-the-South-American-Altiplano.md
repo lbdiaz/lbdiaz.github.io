@@ -6,4 +6,3 @@ date: 2019-01-01
 venue: 'Frontiers in Environmental Science'
 citation: ' Carolina Vera,  Leandro D{\&apos;{i}}az,  Ramiro Saurral, &quot;Influence of anthropogenically-forced global warming and natural Climate variability in the rainfall changes observed over the South American Altiplano.&quot; Frontiers in Environmental Science, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Influence+of+anthropogenically+forced+global+warming+and+natural+Climate+variability+in+the+rainfall+changes+observed+over+the+South+American+Altiplano){:target="_blank"} for full citation

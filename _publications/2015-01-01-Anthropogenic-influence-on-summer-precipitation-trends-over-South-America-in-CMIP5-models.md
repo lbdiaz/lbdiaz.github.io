@@ -7,4 +7,3 @@ venue: 'International Journal of Climatology'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1002/joc.4153/abstract'
 citation: ' Carolina Vera,  Leandro D{\&apos;{i}}az, &quot;Anthropogenic influence on summer precipitation trends over South America in CMIP5 models.&quot; International Journal of Climatology, 2015.'
 ---
-[Access paper here](http://onlinelibrary.wiley.com/doi/10.1002/joc.4153/abstract){:target="_blank"}

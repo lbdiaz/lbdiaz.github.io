@@ -7,4 +7,3 @@ venue: 'Climate Dynamics'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-1734930/v1'
 citation: ' Elio Campitelli,  Leandro D{\&apos;{i}}az,  Carolina Vera, &quot;Revisiting the zonally asymmetric extratropical circulation of the Southern Hemisphere spring using complex empirical orthogonal functions.&quot; Climate Dynamics, 2023.'
 ---
-[Access paper here](https://doi.org/10.21203/rs.3.rs-1734930/v1){:target="_blank"}

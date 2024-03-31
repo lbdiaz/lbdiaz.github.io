@@ -6,4 +6,3 @@ date: 2022-01-01
 venue: 'International Journal of Climatology'
 citation: ' Romina Ruscica,  Anna S{\&quot;{o}}rensson,  Leandro Diaz,  Carolina Vera,  Aline Castro,  Phillip Papastefanou,  Anja Rammig,  Luiz Rezende,  Boris Sakschewski,  Kirsten Thonicke,  Nicolas Viovy,  Celso Randow, &quot;Evapotranspiration trends and variability in southeastern South America: The roles of land-cover change and precipitation variability.&quot; International Journal of Climatology, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Evapotranspiration+trends+and+variability+in+southeastern+South+America:+The+roles+of+land+cover+change+and+precipitation+variability){:target="_blank"} for full citation

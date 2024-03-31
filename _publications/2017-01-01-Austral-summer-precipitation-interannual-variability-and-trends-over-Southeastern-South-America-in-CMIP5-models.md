@@ -7,4 +7,3 @@ venue: 'International Journal of Climatology'
 paperurl: 'http://doi.wiley.com/10.1002/joc.5031'
 citation: ' Leandro D{\&apos;{i}}az,  Carolina Vera, &quot;Austral summer precipitation interannual variability and trends over Southeastern South America in CMIP5 models.&quot; International Journal of Climatology, 2017.'
 ---
-[Access paper here](http://doi.wiley.com/10.1002/joc.5031){:target="_blank"}
