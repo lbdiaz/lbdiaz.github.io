@@ -1,0 +1,9 @@
+---
+title: "Current and emerging developments in subseasonal to decadal prediction"
+collection: publications
+permalink: /publication/2020-01-01-Current-and-emerging-developments-in-subseasonal-to-decadal-prediction
+date: 2020-01-01
+venue: 'Bulletin of the American Meteorological Society'
+paperurl: 'https://journals.ametsoc.org/view/journals/bams/101/6/bamsD190037.xml https://journals.ametsoc.org/downloadpdf/journals/bams/101/6/bamsD190037.pdf'
+citation: ' William Merryfield,  Johanna Baehr,  Lauriane Batte,  Emily Becker,  Amy Butler,  Caio Coelho,  Gokhan Danabasoglu,  Paul Dirmeyer,  Francisco Doblas-Reyes,  Daniela Domeisen,  Laura Ferranti,  Tatiana Ilynia,  Arun Kumar,  Wolfgang M{\&quot;{u}}ller,  Michel Rixen,  Andrew Robertson,  Doug Smith,  Yuhei Takaya,  Matthias Tuma,  Frederic Vitart,  Christopher White,  Mariano Alvarez,  Constantin Ardilouze,  Hannah Attard,  Cory Baggett,  Magdalena Balmaseda,  Asmerom Beraki,  Partha Bhattacharjee,  Roberto Bilbao,  Felipe {De Andrade},  Michael DeFlorio,  Leandro Diaz,  Muhammad Ehsan,  Georgios Fragkoulidis,  Sam Grainger,  Benjamin Green,  Momme Hell,  Johnna Infanti,  Katharina Isensee,  Takahito Kataoka,  Ben Kirtman,  Nicholas Klingaman,  June Lee,  Kirsten Mayer,  Roseanna McKay,  Jennifer Mecking,  Douglas Miller,  Nele Neddermann,  Ching Ng,  Albert Osso,  Klaus Pankatz,  Simon Peatman,  Kathy Pegion,  Judith Perlwitz,  G. Recalde-Coronel,  Annika Reintges,  Christoph Renkl,  Balakrishnan Solaraju-Murali,  Aaron Spring,  Cristiana Stan,  Y. Sun,  Carly Tozer,  Nicolas Vigaud,  Steven Woolnough,  Stephen Yeager, &quot;Current and emerging developments in subseasonal to decadal prediction.&quot; Bulletin of the American Meteorological Society, 2020.'
+---

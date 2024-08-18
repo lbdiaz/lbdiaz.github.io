@@ -10,13 +10,13 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 #theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Dr. Marisol Osman"
+title                    : "Dr. Leandro B. Díaz"
 title_separator          : "-"
-name                     : &name "Marisol Osman"
+name                     : &name "Leandro Díaz"
 description              : &description "personal description"
-url                      : https://marisolosman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lbdiaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marisolosman/marisolosman.github.io"
+repository               : "lbdiaz/lbdiaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,7 +60,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : marisol_osman
+  username               : "@leabdiaz"
 facebook:
   username               :
   app_id                 :
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marisol Osman"
+  name             : "Leandro B. Díaz"
   avatar           : "profile.jpg"
   bio              : "Climate Resarcher"
   location         : "Buenos Aires, Argentina"
-  employer         :
+  employer         : "CONICET - University of Buenos Aires"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.ar/citations?user=5i0t-n4AAAAJ&hl=es&oi=ao"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Marisol-Osman" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=_ahb9y0AAAAJ&hl=es"
+  email            : "ldiaz@cima.fcen.uba.ar" 
+  researchgate     : "https://www.researchgate.net/profile/Leandro-Diaz-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "marisolosman"
+  github           : "lbdiaz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6275-1454"
+  linkedin         : "leabdiaz"
+  orcid            : "https://orcid.org/0000-0002-9237-6704"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@marisol_osman"
+  twitter          : "@leabdiaz"  # Replace this with your X / Twitter handle
   vine             :
   weibo            :
   xing             :
