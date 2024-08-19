@@ -28,8 +28,8 @@ Website ["Why is the planet heating up?/¿Por qué el planeta está al horno?"](
 
 ## Podcasts
 
-* ["Ciencia en Ascenso: Episodio 2| Investigación"]() Servicio Meteorológico Nacional, 2024-04.
-* ["El día después de Mañana"]() Ciencia del Fin del Mundo (Radio Monk), 2023-03.
+* ["Ciencia en Ascenso: Episodio 2 Investigación"](https://open.spotify.com/episode/6jUjRxgOo6CnKYqiBVpeg2?si=88308b9688614469) Servicio Meteorológico Nacional, 2024-04.
+* ["El día después de Mañana"](https://open.spotify.com/episode/74TvT3715kDR0f18Xlpcbt?si=a5b573a3d5bd483c) Ciencia del Fin del Mundo (Radio Monk), 2023-03.
 
 
 ## Some interviews and media appearances
