@@ -18,8 +18,11 @@ Website ["Why is the planet heating up?/¿Por qué el planeta está al horno?"](
 ## Articles
 
 * ["Entender a través de los registros"](https://www.smn.gob.ar/revista-meteoros/entender-trav%C3%A9s-de-los-registros) J Rivera y L Díaz. Revista Meteoros - Servicio Meteorológico Nacional. Año 14 Nro 9 2022-12.
+* ["El decano de los meteorólogos"](https://bibliotecadigital.exactas.uba.ar/collection/mensula/document/mensula_n029) L Díaz y M Lozada. La Mensula Nº29 - De las estrellas a la sociedad : la incorporación de la meteorología en la Universidad.  Programa de Historia de la Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. Año 12 Nro 29 2019-04.
 * "¿Te gustaría ser un "Cazador de tormentas"?" M Osman y L B Díaz. Revista “Ciencia hoy de los chicos” Año 4 Nro 10 2018-11/2019-02.
 * ["Nuestra Atmósfera húmeda"](https://fliphtml5.com/iwdnh/renc/basic) M Osman y L B Díaz. Revista “Ciencia hoy de los chicos” Año 3 Nro 6 2017-07/10.
+* ["El Modelo Mundial Latinoamericano: Una respuesta desde el Sur"](https://bibliotecadigital.exactas.uba.ar/collection/mensula/document/mensula_n022) L Díaz. La Mensula Nº22 - La larga jornada : Amílcar Herrera.  Programa de Historia de la Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. Año 9 Nro 22 2016-04.
+
 
 ## Talks
 
