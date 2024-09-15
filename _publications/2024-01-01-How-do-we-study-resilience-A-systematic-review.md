@@ -5,5 +5,5 @@ permalink: /publication/2024-01-01-How-do-we-study-resilience-A-systematic-revie
 date: 2024-01-01
 venue: 'People and Nature'
 paperurl: 'https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10603'
-citation: ' Yann Waroux,  Marie Carignan,  Olivia Giorgio,  Leandro Diaz,  Lucas Enrico,  Pedro Jaureguiberry,  Maria Lipoma,  Flavia Mazzini,  Sandra Diaz, &quot;How do we study resilience? A systematic review.&quot; People and Nature, 2024.'
+citation: ' le Polain de Waroux, Yann,  Carignan, Marie Claude,  del Giorgio, Olivia,  Diaz, Leandro,  Enrico, Lucas,  Jaureguiberry, Pedro,  Lipoma, Maria Lucrecia,  Mazzini, Flavia,  Diaz, Sandra, &quot;How do we study resilience? A systematic review.&quot; People and Nature, 2024.'
 ---

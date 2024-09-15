@@ -5,5 +5,5 @@ permalink: /publication/2015-01-01-Anthropogenic-influence-on-summer-precipitati
 date: 2015-01-01
 venue: 'International Journal of Climatology'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1002/joc.4153/abstract'
-citation: ' Carolina Vera,  Leandro Diaz, &quot;Anthropogenic influence on summer precipitation trends over South America in CMIP5 models.&quot; International Journal of Climatology, 2015.'
+citation: ' Vera, Carolina S.,  Diaz, Leandro, &quot;Anthropogenic influence on summer precipitation trends over South America in CMIP5 models.&quot; International Journal of Climatology, 2015.'
 ---

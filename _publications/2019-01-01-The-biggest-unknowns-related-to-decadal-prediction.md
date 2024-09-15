@@ -5,5 +5,5 @@ permalink: /publication/2019-01-01-The-biggest-unknowns-related-to-decadal-predi
 date: 2019-01-01
 venue: 'Bulletin of the American Meteorological Society'
 paperurl: 'https://journals.ametsoc.org/view/journals/bams/100/10/bams-d-19-0190.1.xml'
-citation: ' Dragana Bojovic,  Roberto Bilbao,  Leandro Diaz,  Markus Donat,  Pablo Ortega,  Yohan Ruprich-Robert,  Balakrishnan Solaraju-Murali,  Marta Terrado,  Deborah Verfaillie,  Francisco Doblas-Reyes, &quot;The biggest unknowns related to decadal prediction.&quot; Bulletin of the American Meteorological Society, 2019.'
+citation: ' Bojovic, Dragana,  Bilbao, Roberto,  Diaz, Leandro B.,  Donat, Markus,  Ortega, Pablo,  Ruprich-Robert, Yohan,  Solaraju-Murali, Balakrishnan,  Terrado, Marta,  Verfaillie, Deborah,  Doblas-Reyes, Francisco, &quot;The biggest unknowns related to decadal prediction.&quot; Bulletin of the American Meteorological Society, 2019.'
 ---
