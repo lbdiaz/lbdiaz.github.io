@@ -17,6 +17,7 @@ Website ["Why is the planet heating up?/¿Por qué el planeta está al horno?"](
 
 ## Articles
 
+* ["Crisis climática: del colapso a la esperanza activa"](https://unahur.edu.ar/wp-content/uploads/2024/09/LPO10-2024.pdf) M Lozada Montanari, N Testani y L B Díaz. Revista La Perla del Oeste - Universidad Nacional de Hurlingham. Nro 10 2024-09.
 * ["Entender a través de los registros"](https://www.smn.gob.ar/revista-meteoros/entender-trav%C3%A9s-de-los-registros) J Rivera y L Díaz. Revista Meteoros - Servicio Meteorológico Nacional. Año 14 Nro 9 2022-12.
 * ["El decano de los meteorólogos"](https://bibliotecadigital.exactas.uba.ar/collection/mensula/document/mensula_n029) L Díaz y M Lozada. La Mensula Nº29 - De las estrellas a la sociedad : la incorporación de la meteorología en la Universidad.  Programa de Historia de la Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. Año 12 Nro 29 2019-04.
 * "¿Te gustaría ser un "Cazador de tormentas"?" M Osman y L B Díaz. Revista “Ciencia hoy de los chicos” Año 4 Nro 10 2018-11/2019-02.
@@ -45,10 +46,22 @@ Website ["Why is the planet heating up?/¿Por qué el planeta está al horno?"](
 
 ### TV
 
+* ["La Niña y el Cambio climático, ¿tendrán influencia en la siembra de la gruesa?"](https://www.agrositio.com.ar/canal-agrositio/30-online/237420-la-nina-y-el-cambio-climatico-tendran-influencia-en-la-siembra-de-la-gruesa-con-leandro-diaz-climatologo.html) 30 Online - Agrositio TV, 2024-09.
 * ["¿PUEDE LA CIUDAD DE BUENOS AIRES TERMINAR BAJO EL AGUA?"](https://youtu.be/rubIo4YtxRM?feature=shared) Transición 2030 - A24 TV, 2024-05.
 * ["¿Se viene La Niña?, ¿qué dicen los Modelos estacionales y la ciencia?"](https://www.agrositio.com.ar/canal-agrositio/30-online/234499-se-viene-la-nina-que-dicen-los-modelos-estacionales-y-la-ciencia-con-leandro-diaz-clima.html) 30 Online - Agrositio TV, 2024-03.
+* ["Con ciencia argentina: Investigar para crecer"](https://youtu.be/v46EdF3_3Hc?feature=shared&t=2294) 
+SIC Periodismo Textual - Televisión Pública, 2023-09.
+* ["Noticias a las 20:30 con Silvina Brandimarte"](https://youtu.be/nouKBvZtJLE?feature=shared&t=2341) 
+Canal de la Ciudad, 2023-07.
+* ["¿Argentina bajo una ola de calor?: la advertencia de la Organización Meteorológica Mundial"](https://www.youtube.com/watch?v=DM-gn93n8oI&ab_channel=eldoce) El Doce, 2023-07.
+* ["Las consecuencias del fenómeno climático "El Niño""](https://www.youtube.com/watch?v=TNEFSdAJtWE&list=PLfOtxizkSaokXaUK82zizq8M8m8FJkzfe&index=6&ab_channel=DNews) DNews, 2023-05.
+* ["Ecoagenda con Lourdes López - PGM 11"](https://youtu.be/pp5yxUkCnLw?feature=shared&t=1082) 
+Diputados TV, 2023-05.
 
 ### Radio
-
+* ["Cuáles son las decisiones que se deben tomar para frenar el cambio climático"](https://admin.radionacional.com.ar/cuales-son-las-decisiones-que-se-deben-tomar-para-frenar-el-cambio-climatico/) A media mañana - Radio Nacional Lago Argentino Calafate, 2024-01.
+* ["El cambio climático genera fenómenos más extremos y violentos"](https://radiocut.fm/audiocut/leandro-diaz-cambio-climatico-genera-fenomenos-mas-extremos-y-violentos/
+) Siempre es Hoy - AM 530 Somos Radio, 2024-01.
+* ["La Antártida no recupera todo el hielo que pierde y preocupa a los especialistas"](https://www.youtube.com/watch?v=s50N1qr4DiQ&list=PLfOtxizkSaokXaUK82zizq8M8m8FJkzfe&index=9&ab_channel=UrbanaPlay104.3FM) De acá en más - Urbana Play 104.3 FM, 2023-08.
 
 ### Newspapers/Web
