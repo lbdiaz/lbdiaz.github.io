@@ -37,6 +37,7 @@ Website ["Why is the planet heating up?/¿Por qué el planeta está al horno?"](
 ## Podcasts
 
 * ["Ciencia en Ascenso: Episodio 2 Investigación"](https://open.spotify.com/episode/6jUjRxgOo6CnKYqiBVpeg2?si=88308b9688614469) Servicio Meteorológico Nacional, 2024-04.
+* ["REVISTA ECOLOGICA: El clima: ¿Está cambiando?"](https://open.spotify.com/episode/7Ca7VkZDlb4ccEGIiiMv8G) Revista Ecológica, 2023-03.
 * ["El día después de Mañana"](https://open.spotify.com/episode/74TvT3715kDR0f18Xlpcbt?si=a5b573a3d5bd483c) Ciencia del Fin del Mundo (Radio Monk), 2023-03.
 * ["Capa de ozono"](https://open.spotify.com/episode/7cejaJIQEP9sH7qK2f38JH?si=d7ef509b00094d5f) Ciencia del Fin del Mundo (Radio FM La Patriada), 2022-05.
 * ["Los fenómenos de El Niño y La Niña"](https://open.spotify.com/episode/34qT2N1Rx3GQIn34wbs8qj?si=eb7b9cff74a4409a) Ciencia del Fin del Mundo (Radio FM La Patriada), 2021-08.
@@ -63,5 +64,18 @@ Diputados TV, 2023-05.
 * ["El cambio climático genera fenómenos más extremos y violentos"](https://radiocut.fm/audiocut/leandro-diaz-cambio-climatico-genera-fenomenos-mas-extremos-y-violentos/
 ) Siempre es Hoy - AM 530 Somos Radio, 2024-01.
 * ["La Antártida no recupera todo el hielo que pierde y preocupa a los especialistas"](https://www.youtube.com/watch?v=s50N1qr4DiQ&list=PLfOtxizkSaokXaUK82zizq8M8m8FJkzfe&index=9&ab_channel=UrbanaPlay104.3FM) De acá en más - Urbana Play 104.3 FM, 2023-08.
+* ["Calor austral"](https://www.rtve.es/play/audios/por-tres-razones/calor-austral-barrios-frescos-obesidad-gimnasia-cerebral/6951553/) Por tres razones - Radio Nacional de España, 2023-08.
+* ["Bajante extraordinaria del Río Paraná | Entrevista a Leandro B. Díaz"](https://open.spotify.com/episode/7gfMMNiVMK1Qu2ux9kaxrQ?si=GaeJ9EV3Tc2bZAN2HO5l_A) ¿Qué mundo nos dejaron? - Radio Nacional Rock, 2021-07.
 
 ### Newspapers/Web
+
+* ["Olas polares en la era del calentamiento global: cómo el cambio climático genera eventos extremos"](https://www.infobae.com/america/medio-ambiente/2024/07/15/olas-polares-en-la-era-del-calentamiento-global-como-el-cambio-climatico-genera-eventos-extremos/) Laura Rocha - Infobae, 2024-07.
+* [“No todo es evitable”. Cuáles son las claves para minimizar los eventos meteorológicos extremos"](https://www.lanacion.com.ar/sociedad/no-todo-es-evitable-cuales-son-las-claves-para-minimizar-los-eventos-meteorologicos-extremos-nid23122023/) Jorgelina Hiba - La Nación, 2023-12.
+* [“Leandro Diaz, climatólogo: “Es grave que el director de Defensa Civil ninguneé las alertas meteorológicas”"](https://www.tiempoar.com.ar/ta_article/leandro-diaz-climatologo-es-grave-que-el-director-de-defensa-civil-ningunee-las-alertas-meteorologicas/) Luciana Rosende - Tiempo Argentino, 2023-12.
+* [“Temporal en Buenos Aires, ¿una consecuencia del cambio climático?"](https://agencia.unq.edu.ar/?p=17118) Luciana Mazzini Puga - Agencia de Noticias UNQ, 2023-12.
+* [“Clima para el verano 2024: ¿Argentina será un horno?"](https://www.clarin.com/viva/clima-verano-2024-argentina-horno_0_BOtvXNmrmh.html) Ayelén Di Leva - Revista VIVA, Clarín, 2023-11.
+* [“Global solidarity for climate justice: perspectives from an early-career researcher"](https://council.science/blog/global-solidarity-for-climate-justice/) International Science Council (ISC) blog, 2023-10.
+* [“La crisis climática no es un cuento"](https://latfem.org/la-crisis-climatica-no-es-cuento/) María Paz Tibiletti - LATFEM, 2023-09.
+* [“La Antártida no recupera todo el hielo que pierde y preocupa a los especialistas"](https://www.lanacion.com.ar/ciencia/desaparecio-de-la-antartida-un-pedazo-de-hielo-del-tamano-de-la-argentina-y-alertan-por-el-aumento-nid30072023/) La Nación, 2023-07.
+* [“ALERTA: "Del tamaño de Argentina", la verdad sobre lo que pasó en la Antártida"](https://www.eldestapeweb.com/sociedad/cambio-climatico/alerta-la-antartida-perdio-una-argentina-de-tamano-y-revelaron-la-verdad-de-lo-que-paso-202373114460) Gimena Figueroa - El Destape, 2023-07.
+* [“Es falso que “no hay una crisis climática”, como afirmó el ganador del Premio Nobel John Clauser"](https://chequeado.com/nota/es-falso-que-no-hay-una-crisis-climatica-como-afirmo-el-ganador-del-premio-nobel-john-clauser/) Fermín Koop - Chequeado, 2023-07.
