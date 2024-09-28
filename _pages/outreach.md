@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-(not updated)
-
 ## Popular Science
 
 * Coordinator of the Workshop "Why is the planet heating up?/¿Por qué el planeta está al horno?": a classroom-based approach to climate change.
