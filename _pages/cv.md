@@ -17,7 +17,7 @@ redirect_from:
 
 ## Current positions
 * CONICET: Assistant Researcher since 11/2019. 
-Place of work: Research Center of the Sea and the Atmosphere (CIMA/CONICET –UBA), Buenos Aires, Argentina. 
+Place of work: Centro de Investigaciones del Mar y la Atmósfera (CIMA/CONICET–UBA), Buenos Aires, Argentina. 
 Topic of the Work Plan: Development of climate predictions in interannual timescales to forewarn the impact of extreme events in Argentina
 
 * Department of Atmospheric and Oceanic Sciences, Faculty of Exact and Natural Sciences, Universidad de Buenos Aires. Buenos Aires. Argentina.
@@ -113,7 +113,7 @@ Period: September 2022 to March 2023.
 
 * Member of the scientific organizing committee of the [WCRP Open Science Conference 2023](https://wcrp-osc2023.org/) and the [Early and Mid-Career Researchers Symposium](https://wcrp-osc2023.org/emcr).
 
-* Member of the scientific team [Explaining and Predicting Earth System Change (EPESC) Lighthouse Activity] (https://www.wcrp-climate.org/epesc) of the World Climate Research Programme (WCRP). Period: March 2021-present.
+* Member of the scientific team [Explaining and Predicting Earth System Change (EPESC)Lighthouse Activity](https://www.wcrp-climate.org/epesc) of the World Climate Research Programme (WCRP). Period: March 2021-present.
 
 * Member of the scientific team [My Climate Risk Regional Hub CONICET Argentina](https://sites.google.com/view/mcrhubconicet/) of the World Climate Research Programme (WCRP). Period: March 2022-present.
 
