@@ -8,7 +8,7 @@ date: 2017-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-Position obtained by open and competitive selection process. Period: 2017-03 to present
+Position obtained by open and competitive selection process. Period: 2017-03 to 2024-07
 
 Courses
 ======

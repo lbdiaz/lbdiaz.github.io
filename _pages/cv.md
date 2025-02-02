@@ -21,7 +21,7 @@ Place of work: Centro de Investigaciones del Mar y la Atmósfera (CIMA/CONICET�
 Topic of the Work Plan: Development of climate predictions in interannual timescales to forewarn the impact of extreme events in Argentina
 
 * Department of Atmospheric and Oceanic Sciences, Faculty of Exact and Natural Sciences, Universidad de Buenos Aires. Buenos Aires. Argentina.
-Professor Assistant. 2017-present
+Lecturer. 2024-present
 
 ## Former positions
 * Postdoctoral Fellowship, CONICET. Buenos Aires. Argentina. Advisor: Dr. Carolina Vera. Period: April 2018-March 2020.
@@ -34,7 +34,7 @@ Professor Assistant. 2017-present
 
 ## Teaching
 
-I have been working as an Assistant at the Universidad de Buenos Aires (Argentina) since 2010. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://lbdiaz.github.io/teaching/) section for more details
+I have been working as an Lecturer and Assistant at the Universidad de Buenos Aires (Argentina) since 2010. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://lbdiaz.github.io/teaching/) section for more details
 
 ## Publications
 
@@ -43,6 +43,8 @@ Check my [publications](https://lbdiaz.github.io/publications/) for more details
 I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to regional climate change](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-10/).
 
 ## Participations in scientific meetings (last 3 years)
+
+* Ieras Jornadas Hidroclima, Impactos y Toma de Decisiones. Buenos Aires, Argentina. 5-6 November 2024. Attendance and poster.
 
 * CALMet XV Conference 2023. Virtual. 7 to 17 November 2023. Attendance and dissertation.
 
@@ -58,8 +60,6 @@ I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to
 US Clivar Workshop on Societally-Relevant Multi-Year Climate Predictions Workshop. Boulder, United States (hybrid). 28-30 February 2022. Attendance and poster.
 
 * 13th meeting of the International Conference on Southern Hemisphere Meteorology and Oceanography. New Zealand (hybrid). 8 to 17 February 2022. Attendance, dissertation and poster.
-
-* WCRP Workshop on 'Attribution of multi-annual to decadal changes in the climate system'. Virtual. 22-24 September 2021. Attendance and dissertation.
 
 Check the [talks](https://lbdiaz.github.io/talks/) section for more details.
 
@@ -86,6 +86,9 @@ Role: Co-advisor.
 * Dalia Panza. PhD student at the Universidad de Buenos Aires (Argentina). 
 Role: Advisor.
 
+* Andrés Duran. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina).
+Role: Advisor.
+
 ## Ongoing Projects
 
 * Attribution and multi-annual scale prediction of recent changes in mean and extreme precipitation in southern South America. CONICET-PIBAA 28720210100758CO. Period: 2023-2025. Role: PI.
@@ -102,7 +105,6 @@ Role: Advisor.
 
 * Climate Prediction Group, Department of Earth Sciences. Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS). February - July 2019.
 
-
 ## Professional Activities
 
 * Co-author of technical report: Estudio sobre cambios observados y escenarios climáticos futuros para Argentina para diferentes horizontes temporales y umbrales de calentamiento global [Study on observed changes and future climate scenarios for Argentina for different time horizons and global warming thresholds]. Proyecto ARG 19003: Plan Nacional de Adaptación al Cambio Climático. Ministerio de Ambiente y Desarrollo Sustentable." [National Climate Change Adaptation Plan. Ministry of Environment and Sustainable Development] 
@@ -110,6 +112,8 @@ Coordinator: Inés Camilloni.
 Period: September 2022 to March 2023.
 
 ## Coordinating responsibilities
+
+* Working group coordinator of [Large Ensembles for Attribution of Dynamically-driven ExtRemes (LEADER)](https://www.aparc-climate.org/activities/leader-large-ensembles-for-attribution-of-dynamically-driven-extremes/) activity “Identifying the forced response of the Southern Hemispheric atmospheric circulation to greenhouse gases , aerosols, and ozone, and associated surface impacts on extremes”. Período: April 2024-present
 
 * Member of the scientific organizing committee of the [WCRP Open Science Conference 2023](https://wcrp-osc2023.org/) and the [Early and Mid-Career Researchers Symposium](https://wcrp-osc2023.org/emcr).
 

@@ -67,6 +67,8 @@ Diputados TV, 2023-05.
 
 ### Newspapers/Web
 
+* ["Crece la polémica: el periodista que retuiteó Milei para negar el cambio climático ya estaba en la mira de los expertos "](https://www.lanacion.com.ar/sociedad/crece-la-polemica-el-periodista-que-retuiteo-milei-para-negar-el-cambio-climatico-ya-estaba-en-la-nid27012025/) Matías Avramow - La Nación, 2025-01.
+* ["¿Hay riesgo de DANA en la Argentina? La respuesta de los expertos despierta preocupación"](https://www.lanacion.com.ar/sociedad/hay-riesgo-de-dana-en-la-argentina-la-respuesta-de-los-expertos-despierta-preocupacion-nid10112024/) Jorgelina Hiba - La Nación, 2024-11.
 * ["Olas polares en la era del calentamiento global: cómo el cambio climático genera eventos extremos"](https://www.infobae.com/america/medio-ambiente/2024/07/15/olas-polares-en-la-era-del-calentamiento-global-como-el-cambio-climatico-genera-eventos-extremos/) Laura Rocha - Infobae, 2024-07.
 * [“No todo es evitable”. Cuáles son las claves para minimizar los eventos meteorológicos extremos"](https://www.lanacion.com.ar/sociedad/no-todo-es-evitable-cuales-son-las-claves-para-minimizar-los-eventos-meteorologicos-extremos-nid23122023/) Jorgelina Hiba - La Nación, 2023-12.
 * [“Leandro Diaz, climatólogo: “Es grave que el director de Defensa Civil ninguneé las alertas meteorológicas”"](https://www.tiempoar.com.ar/ta_article/leandro-diaz-climatologo-es-grave-que-el-director-de-defensa-civil-ningunee-las-alertas-meteorologicas/) Luciana Rosende - Tiempo Argentino, 2023-12.
