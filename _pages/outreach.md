@@ -67,6 +67,8 @@ Diputados TV, 2023-05.
 
 ### Newspapers/Web
 
+* ["Es falso que exista un alerta por la llegada del fenómeno El Niño a la Argentina: está en una fase neutral"](https://chequeado.com/ultimas-noticias/es-falso-que-exista-un-alerta-por-la-llegada-del-fenomeno-el-nino-a-la-argentina-esta-en-una-fase-neutral/) Elizabeth Maier - Chequeado, 2025-06.
+* ["¿Llueve más en el país? Qué dicen los expertos sobre las feroces tormentas que afectaron Bahía Blanca y el norte bonaerense "](https://www.lanacion.com.ar/sociedad/llueve-mas-en-el-pais-que-dicen-los-expertos-sobre-las-feroces-tormentas-que-afectaron-bahia-blanca-nid20052025/) Matías Avramow - La Nación, 2025-05.
 * ["Crece la polémica: el periodista que retuiteó Milei para negar el cambio climático ya estaba en la mira de los expertos "](https://www.lanacion.com.ar/sociedad/crece-la-polemica-el-periodista-que-retuiteo-milei-para-negar-el-cambio-climatico-ya-estaba-en-la-nid27012025/) Matías Avramow - La Nación, 2025-01.
 * ["¿Hay riesgo de DANA en la Argentina? La respuesta de los expertos despierta preocupación"](https://www.lanacion.com.ar/sociedad/hay-riesgo-de-dana-en-la-argentina-la-respuesta-de-los-expertos-despierta-preocupacion-nid10112024/) Jorgelina Hiba - La Nación, 2024-11.
 * ["Olas polares en la era del calentamiento global: cómo el cambio climático genera eventos extremos"](https://www.infobae.com/america/medio-ambiente/2024/07/15/olas-polares-en-la-era-del-calentamiento-global-como-el-cambio-climatico-genera-eventos-extremos/) Laura Rocha - Infobae, 2024-07.

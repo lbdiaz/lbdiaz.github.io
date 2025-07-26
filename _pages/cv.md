@@ -44,6 +44,12 @@ I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to
 
 ## Participations in scientific meetings (last 3 years)
 
+* EPESC – LEADER Science Meeting. Busan, South Korea. 15 - 18 July 2025. Attendance, dissertation and poster.
+
+* 14th meeting of the International Conference on Southern Hemisphere Meteorology and Oceanography. Cape Town, South Africa. 31 March - 4 April 2025. Attendance and dissertation.
+
+* 5th Annual CLIVAR Climate Dynamics Panel workshop. Lorne, Australia. 24-27 February 2025. Attendance and dissertation.
+
 * Ieras Jornadas Hidroclima, Impactos y Toma de Decisiones. Buenos Aires, Argentina. 5-6 November 2024. Attendance and poster.
 
 * CALMet XV Conference 2023. Virtual. 7 to 17 November 2023. Attendance and dissertation.
@@ -55,11 +61,6 @@ I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to
 * XIV Argentinean Congress of Meteorology (CONGREMET). Buenos Aires, Argentina. November 7 to 11, 2022. Attendance, dissertation and poster.
 
 * Workshop on co-production of climate-environmental knowledge: Latin America and Europe. Buenos Aires, Argentina. 3-4 November 2022. Attendance and dissertation.
-
-* EGU General Assembly 2022. Vienna, Austria (hybrid). 23-28 April 2022. Attendance and dissertation.
-US Clivar Workshop on Societally-Relevant Multi-Year Climate Predictions Workshop. Boulder, United States (hybrid). 28-30 February 2022. Attendance and poster.
-
-* 13th meeting of the International Conference on Southern Hemisphere Meteorology and Oceanography. New Zealand (hybrid). 8 to 17 February 2022. Attendance, dissertation and poster.
 
 Check the [talks](https://lbdiaz.github.io/talks/) section for more details.
 
@@ -86,14 +87,15 @@ Role: Co-advisor.
 * Dalia Panza. PhD student at the Universidad de Buenos Aires (Argentina). 
 Role: Advisor.
 
+* Santino Adduca. PhD student at the Universidad de Buenos Aires (Argentina). 
+Role: Advisor.
+
 * Andrés Duran. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina).
 Role: Advisor.
 
 ## Ongoing Projects
 
 * Attribution and multi-annual scale prediction of recent changes in mean and extreme precipitation in southern South America. CONICET-PIBAA 28720210100758CO. Period: 2023-2025. Role: PI.
-
-* Detection and attribution of recent climatic changes impacting southern South America. PICT-2020-SERIEA-I-INVI-00540. Period: 2022-2024. Role: PI.
 
 * Assessment, predictability and prediction of the combined influence of large-scale climate patterns for the development of impact climate events in the Paraguay River basin. CONICET-PIP 11220200102038CO. Period: 2021-2024. Role: Co-PI. PI: Federico Robledo.
 
@@ -102,6 +104,8 @@ Role: Advisor.
 * Combined influence of large-scale climate patterns on impact climate events in Northeastern Argentina and their prediction. PICT-2021-GRF-TI-00498. Period: 2023-2025. Role: Researcher. PI: Federico Robledo.
 
 ## Research Visits
+
+* Visitor Australian Research Council Centre of Excellence for 21 st Century Weather (Australia).  February - March 2025.
 
 * Climate Prediction Group, Department of Earth Sciences. Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS). February - July 2019.
 
