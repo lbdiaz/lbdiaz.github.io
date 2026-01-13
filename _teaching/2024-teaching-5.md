@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "Adjoint Profesor"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2024-teaching-5
@@ -16,6 +16,8 @@ Courses
 * General Circulation
 
 * Large-scale Atmospheric Processes 
+
+* General Meteorology
 
  
 

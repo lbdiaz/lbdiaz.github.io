@@ -16,15 +16,18 @@ redirect_from:
 * 2008-2013: Licentiate in Atmospheric Sciences. Faculty of Exact and Natural Sciences, Universidad de Buenos Aires. Argentina.
 
 ## Current positions
-* CONICET: Assistant Researcher since 11/2019. 
+* CONICET: Associate Researcher since 12/2025. 
 Place of work: Centro de Investigaciones del Mar y la Atmósfera (CIMA/CONICET–UBA), Buenos Aires, Argentina. 
-Topic of the Work Plan: Development of climate predictions in interannual timescales to forewarn the impact of extreme events in Argentina
+Topic of the Work Plan: Combined influence of anthropogenic change and natural variability in southern South America: contributions for the development of climate services
 
 * Department of Atmospheric and Oceanic Sciences, Faculty of Exact and Natural Sciences, Universidad de Buenos Aires. Buenos Aires. Argentina.
-Lecturer. 2024-present
+Adjoint Profesor since 08/2024.
 
 ## Former positions
-* Postdoctoral Fellowship, CONICET. Buenos Aires. Argentina. Advisor: Dr. Carolina Vera. Period: April 2018-March 2020.
+
+* Assistant Researcher, CONICET. Buenos Aires. Argentina. Advisor: Dr. Carolina Vera. Period: November 2019-November 2025.
+
+* Postdoctoral Fellowship, CONICET. Buenos Aires. Argentina. Advisor: Dr. Carolina Vera. Period: April 2018-October 2019.
 
 * PhD. Fellowship, CONICET. Buenos Aires. Argentina. Advisor: Dr. Carolina Vera. Period: April 2013-March 2018.
 
@@ -34,7 +37,11 @@ Lecturer. 2024-present
 
 ## Teaching
 
-I have been working as an Lecturer and Assistant at the Universidad de Buenos Aires (Argentina) since 2010. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://lbdiaz.github.io/teaching/) section for more details
+I have been working as an Adjoint Profesor and Assistant at the Universidad de Buenos Aires (Argentina) since 2010. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://lbdiaz.github.io/teaching/) section for more details.
+
+### Lecturer in short courses (by invitation)
+
+* Lecturer in “Training on drought scenarios" organized by  CIIFEN/CRC-OSA, Meteoswiss and CRC-SAS (ENANDES+ Project). Theme: “Forecasts of hydrometeorological variables for droughts in South America”.Virtual. 5 August 2025.
 
 ## Publications
 
@@ -44,6 +51,8 @@ I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to
 
 ## Participations in scientific meetings (last 3 years)
 
+* XV Argentinean Congress of Meteorology (CONGREMET). La Plata, Argentina. 30 September - 3 October, 2025. Attendance and poster.
+
 * EPESC – LEADER Science Meeting. Busan, South Korea. 15 - 18 July 2025. Attendance, dissertation and poster.
 
 * 14th meeting of the International Conference on Southern Hemisphere Meteorology and Oceanography. Cape Town, South Africa. 31 March - 4 April 2025. Attendance and dissertation.
@@ -52,15 +61,11 @@ I was also a contributing author to [IPCC AR6 WGI, Chapter 10: Linking global to
 
 * Ieras Jornadas Hidroclima, Impactos y Toma de Decisiones. Buenos Aires, Argentina. 5-6 November 2024. Attendance and poster.
 
-* CALMet XV Conference 2023. Virtual. 7 to 17 November 2023. Attendance and dissertation.
+* CALMet XV Conference 2023. Virtual. 7-17 November 2023. Attendance and dissertation.
 
 * 2nd Open Science Conference of the World Climate Research Programme (WCRP). Kigali, Rwanda. 23-27 October 2023. Attendance and poster.
 
 * WCRP EPESC/DCPP workshop on integrated attribution and prediction. 20-23 March 2023. Attendance and dissertation.
-
-* XIV Argentinean Congress of Meteorology (CONGREMET). Buenos Aires, Argentina. November 7 to 11, 2022. Attendance, dissertation and poster.
-
-* Workshop on co-production of climate-environmental knowledge: Latin America and Europe. Buenos Aires, Argentina. 3-4 November 2022. Attendance and dissertation.
 
 Check the [talks](https://lbdiaz.github.io/talks/) section for more details.
 
@@ -74,6 +79,9 @@ Role: Assistant advisor.
 
 * Dalia Panza. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina). 2023.Thesis title: Low-frequency climate variability and trends in Central Argentina: characterization and forcing. 
 Role: Advisor.
+
+* Raul Andres Duran. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina). 2025. Thesis title: Analysis of precipitation spatial variability in north-eastern Argentina based on conventional and unconventional measurement networks.
+Role: Co-advisor.
 
 * Elio Campitelli. PhD student at the Universidad de Buenos Aires (Argentina). 2018.
 Thesis title: Study of the physical mechanisms associated with the wave 3 pattern of the HS atmospheric circulation. 
@@ -90,18 +98,13 @@ Role: Advisor.
 * Santino Adduca. PhD student at the Universidad de Buenos Aires (Argentina). 
 Role: Advisor.
 
-* Andrés Duran. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina).
-Role: Advisor.
-
 ## Ongoing Projects
 
-* Attribution and multi-annual scale prediction of recent changes in mean and extreme precipitation in southern South America. CONICET-PIBAA 28720210100758CO. Period: 2023-2025. Role: PI.
-
-* Assessment, predictability and prediction of the combined influence of large-scale climate patterns for the development of impact climate events in the Paraguay River basin. CONICET-PIP 11220200102038CO. Period: 2021-2024. Role: Co-PI. PI: Federico Robledo.
+* Assessment, predictability and prediction of the combined influence of large-scale climate patterns for the development of impact climate events in the Paraguay River basin. CONICET-PIP 11220200102038CO. Period: 2021-2026. Role: Co-PI. PI: Federico Robledo.
 
 * Combined influence of large-scale climate patterns on impact climate events in Northeastern Argentina. UBACYT 20020220100075BA. Period: 2023-2026. Role: Trained researcher. PI: Marisol Osman / Carolina Vera.
 
-* Combined influence of large-scale climate patterns on impact climate events in Northeastern Argentina and their prediction. PICT-2021-GRF-TI-00498. Period: 2023-2025. Role: Researcher. PI: Federico Robledo.
+* Combined influence of large-scale climate patterns on impact climate events in Northeastern Argentina and their prediction. PICT-2021-GRF-TI-00498. Period: 2023-2026. Role: Researcher. PI: Federico Robledo.
 
 ## Research Visits
 
@@ -117,9 +120,9 @@ Period: September 2022 to March 2023.
 
 ## Coordinating responsibilities
 
-* Working group coordinator of [Large Ensembles for Attribution of Dynamically-driven ExtRemes (LEADER)](https://www.aparc-climate.org/activities/leader-large-ensembles-for-attribution-of-dynamically-driven-extremes/) activity “Identifying the forced response of the Southern Hemispheric atmospheric circulation to greenhouse gases , aerosols, and ozone, and associated surface impacts on extremes”. Período: April 2024-present
+* Scientific Steering Group (SSG) member of [Explaining and Predicting Earth System Change (EPESC)Lighthouse Activity](https://www.wcrp-climate.org/epesc) of the World Climate Research Programme (WCRP). Period: June 2025-present.
 
-* Member of the scientific organizing committee of the [WCRP Open Science Conference 2023](https://wcrp-osc2023.org/) and the [Early and Mid-Career Researchers Symposium](https://wcrp-osc2023.org/emcr).
+* Working group coordinator of [Large Ensembles for Attribution of Dynamically-driven ExtRemes (LEADER)](https://www.aparc-climate.org/activities/leader-large-ensembles-for-attribution-of-dynamically-driven-extremes/) activity “Identifying the forced response of the Southern Hemispheric atmospheric circulation to greenhouse gases , aerosols, and ozone, and associated surface impacts on extremes”. Período: April 2024-present
 
 * Member of the scientific team [Explaining and Predicting Earth System Change (EPESC)Lighthouse Activity](https://www.wcrp-climate.org/epesc) of the World Climate Research Programme (WCRP). Period: March 2021-present.
 
@@ -127,7 +130,13 @@ Period: September 2022 to March 2023.
 
 * South America regional representative of the [Young Earth System Scientists (YESS) community](https://www.yess-community.org/). 2017-2019.
 
+* Member of the scientific organizing committee of the [CONGREMET XV](https://cenamet.org.ar/congremet/).
+
+* Member of the scientific organizing committee of the [WCRP Open Science Conference 2023](https://wcrp-osc2023.org/) and the [Early and Mid-Career Researchers Symposium](https://wcrp-osc2023.org/emcr).
+
 ## Awards
+
+* [German Burmeister Award 2023](https://www.anc-argentina.org.ar/2025/09/22/ganadores-de-los-premios-academia-nacional-de-ciencias/#more-15425). Academia Nacional de Ciencias de Argentina.
 
 * Member of the winning team of the [JPI Climate Excellence Award for Social Impact 2021](https://jpi-climate.eu/news/the-winner-of-the-jpi-climate-excellence-award-for-social-impact-2021/). Joint Programming Initiative "Connecting Climate Knowledge for Europe" (JPI Climate) 2021
 
