@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 ## Education
 
 * 2013-2018: Ph.D. in Atmospheric and Oceanographic Sciences. Faculty of Exact and Natural Sciences, Universidad de Buenos Aires. Argentina.
