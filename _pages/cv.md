@@ -84,7 +84,7 @@ Role: Advisor.
 * Raul Andres Duran. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina). 2025. Thesis title: Analysis of precipitation spatial variability in north-eastern Argentina based on conventional and unconventional measurement networks.
 Role: Co-advisor.
 
-* Elio Campitelli. PhD student at the Universidad de Buenos Aires (Argentina). 2018.
+* Elio Campitelli. Licenciate (MSc equivalent) student at the Universidad de Buenos Aires (Argentina). 2018.
 Thesis title: Study of the physical mechanisms associated with the wave 3 pattern of the HS atmospheric circulation. 
 Role: Assistant advisor.
 
@@ -137,7 +137,7 @@ Period: September 2022 to March 2023.
 
 ## Awards
 
-* [German Burmeister Award 2023](https://www.anc-argentina.org.ar/2025/09/22/ganadores-de-los-premios-academia-nacional-de-ciencias/#more-15425). Academia Nacional de Ciencias de Argentina.
+* [German Burmeister Award 2023](https://www.anc-argentina.org.ar/2025/09/22/ganadores-de-los-premios-academia-nacional-de-ciencias). Academia Nacional de Ciencias de Argentina.
 
 * Member of the winning team of the [JPI Climate Excellence Award for Social Impact 2021](https://jpi-climate.eu/news/the-winner-of-the-jpi-climate-excellence-award-for-social-impact-2021/). Joint Programming Initiative "Connecting Climate Knowledge for Europe" (JPI Climate) 2021
 
